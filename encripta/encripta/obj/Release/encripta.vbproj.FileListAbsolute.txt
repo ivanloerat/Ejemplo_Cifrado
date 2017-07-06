@@ -1,0 +1,26 @@
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\bin\Release\encripta.dll
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\bin\Release\encripta.pdb
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\bin\Release\encripta.xml
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\obj\Release\encripta.Resources.resources
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\obj\Release\encripta.vbproj.GenerateResource.Cache
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\obj\Release\encripta.dll
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\obj\Release\encripta.xml
+C:\Users\mloera\AppData\Local\Temporary Projects\encripta\obj\Release\encripta.pdb
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\bin\Release\encripta.dll
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\bin\Release\encripta.pdb
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\bin\Release\encripta.xml
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\obj\Release\encripta.Resources.resources
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\obj\Release\encripta.vbproj.GenerateResource.Cache
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\obj\Release\encripta.dll
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\obj\Release\encripta.xml
+C:\Users\mloera\documents\visual studio 2010\Projects\ejemplos\encripta\encripta\obj\Release\encripta.pdb
+C:\Users\mloera\Documents\Visual Studio 2010\Projects\ejemplos\encripta\encripta\obj\Release\encripta.vbprojResolveAssemblyReference.cache
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\bin\Release\encripta.dll
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\bin\Release\encripta.pdb
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\bin\Release\encripta.xml
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\obj\Release\encripta.vbprojResolveAssemblyReference.cache
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\obj\Release\encripta.Resources.resources
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\obj\Release\encripta.vbproj.GenerateResource.Cache
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\obj\Release\encripta.dll
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\obj\Release\encripta.xml
+Q:\Documents\Visual Studio 2012\Projects\encripta\encripta\obj\Release\encripta.pdb

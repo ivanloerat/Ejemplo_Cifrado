@@ -1,0 +1,13 @@
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\bin\Debug\ExtraerConsola.exe
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\bin\Debug\ExtraerConsola.pdb
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\bin\Debug\ExtraerConsola.xml
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.Resources.resources
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.vbproj.GenerateResource.Cache
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.exe
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.xml
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.pdb
+Q:\Documents\Visual Studio 2012\Projects\ExtraerConsola\ExtraerConsola\bin\Debug\ExtraerConsola.exe.config
+C:\Users\mloera\Documents\Visual Studio 2015\Projects\ExtraerConsola\ExtraerConsola\bin\Debug\ExtraerConsola.exe.config
+C:\Users\mloera\Documents\Visual Studio 2015\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.exe
+C:\Users\mloera\Documents\Visual Studio 2015\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.xml
+C:\Users\mloera\Documents\Visual Studio 2015\Projects\ExtraerConsola\ExtraerConsola\obj\Debug\ExtraerConsola.pdb
